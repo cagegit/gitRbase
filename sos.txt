@@ -32,3 +32,5 @@ database ->son
 ak-47 ->ak 
 
 mike ->ak 
+
+monkey ->ak
