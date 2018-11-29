@@ -30,3 +30,6 @@ database ->son
 
 
 ak-47 ->ak 
+
+
+do some config  ->master
