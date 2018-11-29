@@ -27,3 +27,6 @@ kakaka ->lv
 12 make american great again ->son
 
 database ->son
+
+
+ak-47 ->ak 
