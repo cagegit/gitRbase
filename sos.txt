@@ -10,10 +10,10 @@
 5 add someting ->dev 
 6 abc cbs nbc ->dev 
 7 茶呗 ->dev
-<<<<<<< HEAD
 
 8  lalala ->lv
 
 9 biubiu ->lv 
-=======
->>>>>>> dev update
+
+9 sss ->master
+
