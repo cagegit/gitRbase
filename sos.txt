@@ -20,7 +20,8 @@ kakaka ->lv
 9 sss ->master
 
 
+11 wto ->master
+
 10 add s son ->son
 
-
-11 wto ->master
+12 make american great again ->son
