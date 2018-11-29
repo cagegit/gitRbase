@@ -34,3 +34,5 @@ ak-47 ->ak
 mike ->ak 
 
 monkey ->ak
+
+haw mandle ->ak 
