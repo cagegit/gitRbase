@@ -36,3 +36,4 @@ mike ->ak
 monkey ->ak
 
 haw mandle ->ak 
+do some config  ->master
