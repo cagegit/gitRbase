@@ -25,3 +25,5 @@ kakaka ->lv
 10 add s son ->son
 
 12 make american great again ->son
+
+database ->son
