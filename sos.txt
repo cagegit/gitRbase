@@ -29,7 +29,7 @@ kakaka ->lv
 database ->son
 
 
-ak-47 ->ak 
+ak-48 ->ak 
 
 mike ->ak 
 
