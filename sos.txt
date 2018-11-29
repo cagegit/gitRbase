@@ -2,11 +2,10 @@
 2、第二次修改
 3 第四次修改
 4、第五次修改
-<<<<<<< HEAD
 
 
 
 
-=======
+
 5 ddd ->dev
->>>>>>> dev update
+5 add someting ->dev 
