@@ -34,3 +34,5 @@ ak-47 ->ak
 mike ->ak 
 
 monkey ->ak
+
+do some config  ->master
